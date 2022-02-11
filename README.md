@@ -7,6 +7,7 @@
 ## 联系方式
 - Phone：13046255574
 ## 最近更新
+- [测试md是否生成](https://github.com/13046255574/blog/issues/8)--2022-02-11
 - [今天天气比较冷](https://github.com/13046255574/blog/issues/3)--2022-02-10
 - [说说这个博客的搭建](https://github.com/13046255574/blog/issues/2)--2022-02-10
 ## 技术相关

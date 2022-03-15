@@ -5,11 +5,13 @@
 ## 联系方式
 - Phone：13046255574
 ## 最近更新
+- [总要为自己的行为买单](https://github.com/liu-cj25/blog/issues/15)--2022-03-15
 - [刷刷二分查找](https://github.com/liu-cj25/blog/issues/14)--2022-03-14
 - [单例模式](https://github.com/liu-cj25/blog/issues/13)--2022-03-09
 - [MySQL](https://github.com/liu-cj25/blog/issues/12)--2022-02-28
 - [快速理解脏读、不可重复读、幻读和MVCC](https://github.com/liu-cj25/blog/issues/11)--2022-02-14
-- [一些集合的面试题](https://github.com/liu-cj25/blog/issues/10)--2022-02-12
+## 思考人生
+- [总要为自己的行为买单](https://github.com/liu-cj25/blog/issues/15)--2022-03-15
 ## 技术相关
 - [快速理解脏读、不可重复读、幻读和MVCC](https://github.com/liu-cj25/blog/issues/11)--2022-02-14
 - [一些集合的面试题](https://github.com/liu-cj25/blog/issues/10)--2022-02-12
